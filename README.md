@@ -27,7 +27,7 @@ run all cells of [Jupyter Notebook](notebook/Programming_Challenge.ipynb)
 | Rwanda, Mozambique forces recapture port city from rebels|-0.7817|
 | Rwanda deploys 1,000 soldiers to Mozambique’s Cabo Delgado|-0.9964  |
 
-![line chart](plotly_result.jpg?raw=true)
+![line chart](plotly_result.png)
 
 ## Conclusion
 
@@ -60,6 +60,7 @@ Below is the introduction from Flair Library Page:
 ## Total Operation Time
 
 Total Operation Time: 8.395648002624512s
+
 Might need more time first time loading pre-trained library model
 
 ## License
