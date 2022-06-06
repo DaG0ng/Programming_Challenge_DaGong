@@ -8,9 +8,9 @@ The whole project is based on Anaconda Jupyter Notebook.
 
 ## Usage
 
-```python jupyter notebook
+python jupyter notebook
 run all cells of [Jupyter Notebook](notebook/Programming_Challenge.ipynb)
-```
+
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
